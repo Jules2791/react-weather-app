@@ -21,6 +21,12 @@ header {
   padding: 0 0 30px 0;
 }
 
+.search-form {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
 .search-form-input {
   background-color: #f9f7fe;
   border: none;
