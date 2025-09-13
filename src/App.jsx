@@ -8,12 +8,12 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>
-          This project was coded by
+          Project built by
           <a href="https://github.com/Jules2791" target="_blank">
             {" "}
             Julie May
           </a>
-          , is open-sourced on
+          , open-sourced on
           <a
             href="https://github.com/Jules2791/react-weather-app"
             target="_blank"
