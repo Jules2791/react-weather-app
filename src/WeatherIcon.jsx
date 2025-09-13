@@ -34,7 +34,7 @@ const sheCodesToRAW = {
 
 export default function WeatherIcon({
   code,
-  size = 64,
+  size = 52,
   color = "#1e1e1e",
   description,
 }) {
