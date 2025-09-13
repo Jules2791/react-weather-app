@@ -7,7 +7,7 @@ a {
   color: #885df1;
 }
 
-.Weather-app {
+.weather-app {
   background: white;
   max-width: 600px;
   margin: 45px auto;
@@ -77,8 +77,9 @@ main {
 }
 
 .weather-app-icon {
-  width: 88px;
-  height: 88px;
+  width: 80px;
+  height: 80px;
+  margin-top: 5px;
 }
 
 .weather-app-temperature {
